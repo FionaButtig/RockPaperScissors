@@ -1,4 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Roboto:wght@400;700;900&family=Rubik:ital,wght@0,500;1,800&display=swap");
+:root {
+  --main-txt-color: white;
+  --dark-blue:rgb(45, 45, 143);
+  --light-blue: rgb(49, 127, 200);
+}
+
 * {
   margin: 0;
   padding: 0;
